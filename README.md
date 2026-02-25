@@ -39,18 +39,6 @@ I specialize in transforming raw data into actionable intelligence. My focus is 
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=naama-lazar&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=naama-lazar&show_icons=true&locale=en&theme=vision-friendly-dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naama-lazar&theme=vision-friendly-dark" alt="naama-lazar" />
-</p>
-
----
-
 ### 📫 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/naama-lazar-6b12441b8/" target="blank">
